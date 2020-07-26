@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: raffaele angius
 description: Giornalista. Scrivo di sorveglianza, diritti umani digitali e storie cyber. Sono anche membro del Centro Hermes. In questa pagina raccolgo articoli, inchieste ed eventi ai quali partecipo. 
-logo: faffa/profile.png
+logo: <img src="faffa/profile.png" alt="hi" class="inline"/>
+
+
