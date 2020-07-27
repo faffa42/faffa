@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-## About
-
-Prova
+Prova pagina about
