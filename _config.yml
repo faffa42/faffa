@@ -5,10 +5,3 @@ description: Giornalista. Scrivo di sorveglianza, diritti umani digitali e stori
 
 twitter_username: faffa42
 github_username:  faffa42
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
