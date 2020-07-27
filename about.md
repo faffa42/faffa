@@ -1,5 +1,6 @@
 ---
 title: About
+theme: jekyll-theme-minimal
 permalink: /about
 ---
 
